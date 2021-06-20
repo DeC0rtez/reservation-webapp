@@ -1,0 +1,40 @@
+{
+    "reservations": [
+        {
+            "id" : 1,
+            "user_name" : "Charles Smith",
+            "user_email" : "chsmith@example.com",
+            "user_telephone" : "+420 777 777 777",
+            "submitted_on" : "2021-06-15T18:25:43+00:00",
+            "reservation_date" : "2021-06-25T18:30:00+00:00",
+            "persons" : 5,
+            "children" : false,
+            "smoking" : true,
+            "note" : "Birthday Party celebration"
+        },
+        {
+            "id" : 2,
+            "user_name" : "Robert Fuller",
+            "user_email" : "rfuller@example.com",
+            "user_telephone" : "+420 555 555 555",
+            "submitted_on" : "2021-06-19T15:15:21+00:00",
+            "reservation_date" : "2021-06-27T20:00:00+00:00",
+            "persons" : 2,
+            "children" : false,
+            "smoking" : false,
+            "note" : null
+        },
+        {
+            "id" : 3,
+            "user_name" : "Claire W. Atkins",
+            "user_email" : "cw.atkins@example.com",
+            "user_telephone" : "+420 889 889 889",
+            "submitted_on" : "2021-06-19T22:14:27+00:00",
+            "reservation_date" : "2021-06-25T12:00:00+00:00",
+            "persons" : "10+",
+            "children" : true,
+            "smoking" : true,
+            "note" : "Wedding feast, request private hall"
+        }
+    ]
+}
